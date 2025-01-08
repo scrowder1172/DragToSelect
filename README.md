@@ -1,6 +1,6 @@
-# Drag to Select for Scrollable LazyVGrid in SwiftUI
+s# Drag to Select for Scrollable LazyVGrid in SwiftUI
 
-## Based off <a href="https://blog.stackademic.com/swiftui-implement-drag-to-select-for-scrollable-lazyvgrid-be58136aefdc">Chase</a>
+## Based off <a href="https://blog.stackademic.com/swiftui-implement-drag-to-select-for-scrollable-lazyvgrid-be58136aefdc">Itsuki</a>
 
 This is based off Itsuki's article on creating a custom lazyvgrid that allows the user to select multiple views at once. This could be handy for an app that needs to allow a user to select multiple items on the screen.
 
